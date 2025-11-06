@@ -1,17 +1,5 @@
 #include <GL/glut.h>
 #include <stdio.h>
-/* #include "src/bibliotheque/etudiant.h" */
-
-/* int main(){
-
-    Etudiant e1 = {"22S74153", "William", 'M', 21, 2, "INFO"};
-    Etudiant e2 = {"23S74153", "Steve", 'M', 20, 1, "MATHS"};
-
-    EnsEtudiant e = {e1, e2};
-
-    list_Etudiant(e);
-}
- */
 
 void display() {
     glClearColor(246, 247, 235, 1);
